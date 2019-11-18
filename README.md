@@ -6,4 +6,5 @@ This pattern is used maintain data consistency across distributed services. It c
 
 ### References
 https://microservices.io/
+
 https://www.youtube.com/watch?v=xDuwrtwYHu8&t=1576s
